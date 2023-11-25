@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **Golang, Backend, Software engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hadirezaei1377](https://github.com/hadirezaei1377)
-
-- 📫 How to reach me **https://www.linkedin.com/in/hadi-rezaei1377/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/hadi_etc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hadi_etc" height="30" width="40" /></a>
