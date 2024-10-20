@@ -1,7 +1,6 @@
 <h1 align="center">Hi my friends I'm Hadi</h1>
 <h3 align="center">an iranian software engineer | backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadirezaei1377&label=Profile%20views&color=0e75b6&style=flat" alt="hadirezaei1377" /> </p>
 
 - 🔭 I’m currently working on **open source projects**
 
